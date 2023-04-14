@@ -1,0 +1,29 @@
+Doctor: Hello, how can I help you today?
+
+Patient: Hi, I've been having a really bad headache for the past couple of days and I'm not sure what's causing it.
+
+Doctor: I see. Can you tell me more about your symptoms? Where is the pain located and what does it feel like?
+
+Patient: The pain is mostly in the front of my head and it feels like a constant pressure. Sometimes it gets worse when I move my head or when I'm in a bright room.
+
+Doctor: I see. Based on what you're telling me, it's possible that you're experiencing tension headaches. These types of headaches are often caused by stress or tension in the muscles of the head and neck.
+
+Patient: That's possible. I have been feeling pretty stressed lately.
+
+Doctor: That could definitely be a contributing factor. Have you been taking any medication to try and relieve the headache?
+
+Patient: Yes, I've been taking over-the-counter pain relievers, but they haven't really been helping.
+
+Doctor: I understand. It's important to be careful with over-the-counter pain relievers, as they can cause side effects and interact with other medications. Have you tried any non-medication remedies, like relaxation techniques or applying heat or ice to the affected area?
+
+Patient: No, I haven't tried anything like that.
+
+Doctor: Okay, I would recommend trying some non-medication remedies to see if they help. For example, you could try taking a warm bath, practicing deep breathing exercises, or applying a warm or cool compress to your forehead.
+
+Patient: Okay, I'll give that a try. Do you think I should come in for an exam or any tests?
+
+Doctor: If your symptoms persist or worsen, or if you develop any new symptoms, it may be a good idea to come in for an exam. However, at this point, I think it's best to try some non-medication remedies first and see if they provide any relief. If you have any concerns or questions, please don't hesitate to reach out to me.
+
+Patient: Thank you, doctor. I appreciate your advice.
+
+Doctor: Of course, take care and let me know if you need anything else.
