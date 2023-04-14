@@ -1,0 +1,39 @@
+Interviewer: Thank you for speaking with me today. Can you tell me about your recent experience with Malaria?
+
+Patient: Of course. I was diagnosed with Malaria a few days ago and have been feeling really sick. I have a fever, chills, and muscle aches.
+
+Interviewer: I'm sorry to hear that. Have you been taking any medication to treat the Malaria?
+
+Patient: Yes, my doctor prescribed me a course of antimalarial medication. I've been taking it as directed, but I haven't seen much improvement yet.
+
+Interviewer: I see. Have you been experiencing any other symptoms besides the fever and muscle aches?
+
+Patient: Yes, I've been experiencing nausea and vomiting as well.
+
+Interviewer: That sounds really unpleasant. Have you been able to keep any food or liquids down?
+
+Patient: Not really. I've been trying to drink water, but even that makes me feel nauseous.
+
+Interviewer: I understand. Have you noticed any patterns or triggers for your nausea and vomiting?
+
+Patient: It seems to be worse in the morning and when I first wake up.
+
+Interviewer: Okay, that's good to know. Have you been resting and trying to stay hydrated?
+
+Patient: Yes, I've been trying to rest as much as possible, but it's hard because I keep waking up feeling really sick.
+
+Interviewer: I understand. Have you been in contact with your doctor since starting the medication?
+
+Patient: Not yet, but I'm planning on calling them today to update them on my symptoms.
+
+Interviewer: That's a good idea. In the meantime, it's important to keep taking the medication as directed and to try to stay as comfortable as possible. If you continue to experience severe symptoms or if your condition worsens, you should seek medical attention immediately.
+
+Patient: Thank you for the advice. I'll definitely keep that in mind.
+
+Interviewer: No problem. Is there anything else you'd like to discuss or any questions you have?
+
+Patient: Not at the moment, but I may have more questions after I speak with my doctor.
+
+Interviewer: That's understandable. I hope you feel better soon, and please don't hesitate to reach out if you have any more concerns.
+
+Patient: Thank you.
